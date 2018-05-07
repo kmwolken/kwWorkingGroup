@@ -1,1 +1,3 @@
-# kwWorkingGroupAdded line, testing computer capability
+# kwWorking
+GroupAdded line, testing computer capability
+hallo
